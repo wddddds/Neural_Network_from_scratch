@@ -1,6 +1,7 @@
 # Neural_Network_from_scratch
 
 Here are links of tutorials I followed:
+
 Keras:
 https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 
